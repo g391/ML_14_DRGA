@@ -1,0 +1,4 @@
+model_checkpoint_path: "DRAF-self-attention_RLpre-0"
+all_model_checkpoint_paths: "DRAF-self-attention_Attentionpre-0"
+all_model_checkpoint_paths: "DRAF-self-attention_Attentionpre-1"
+all_model_checkpoint_paths: "DRAF-self-attention_RLpre-0"
